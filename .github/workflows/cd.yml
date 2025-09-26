@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: testgithubx/ci_cd
+          tags: lap00000001/calculator
